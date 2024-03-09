@@ -1,0 +1,41 @@
+.search{
+	width: 50px;
+}
+.micro{
+	width: 40px;
+	border-radius: 40px;
+	height: 40px;
+	border: 5px;
+
+}
+.video{
+	width: 30px;
+	height: 30px;
+}
+.ms-6{
+	margin-left: 100px;
+}
+.burger{
+	height: 50px;
+	widows: 50px;
+}
+.box{
+	height: 700px;
+}
+.ms-7{
+	margin-left: 125px;
+}
+.border-radius{
+	border-radius: 	10px;
+}
+.circle{
+	border-radius: 40px;
+}
+.but-sub{
+	background: black;
+	color: white;
+	border-radius: 40px;
+	border: none;
+	height: 35px;
+	width: 125px;
+}
